@@ -3,8 +3,9 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-	<display-name>weixin_pingtai</display-name>
-	<description>微信后台</description>
+	<display-name>授权系统</display-name>
+	<description>授权系统</description>
+	
 	<!-- Spring配置 -->
 	<!-- 指定Spring Bean的配置文件所在目录。默认配置在WEB-INF目录下 -->
 
